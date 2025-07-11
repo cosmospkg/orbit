@@ -100,7 +100,7 @@ core/
 ├── stars/
 │   └── hello.toml
 ├── meta.toml
-├── index.json          <- Registry index
+├── registry.toml          <- Registry index
 ├── signatures/
 │   └── index.sig       <- Signed by maintainer
 ```
